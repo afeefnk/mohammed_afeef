@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about1.jpg";
-import Resume from "../../assets/Mohammed Afeef_Resume.pdf";
+import Resume from "../../assets/Mohammed_Afeef_Resume_Frontend_Developer.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -16,11 +16,10 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Enthusiastic full-stack developer diving into the MERN stack,
-            focused on crafting responsive and engaging web applications. Driven
-            by a love for learning and problem-solving, I'm eager to merge
-            creative design with robust backend solutions for seamless user
-            experiences.
+           Frontend Developer with hands-on experience in the MERN stack, 
+           specializing in building responsive, dynamic, and accessible web applications.
+            Currently working in a professional environment, I combine strong UI/UX principles with modern 
+            frontend technologies to deliver seamless and engaging user experiences. Committed to continuous learning and clean code practices.
           </p>
           <a download="" href={Resume} className="button button--flex">
             Download Resume

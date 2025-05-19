@@ -55,9 +55,9 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Full Stack Developer</h3>
+      <h3 className="home__subtitle">Frontend Developer</h3>
       <p className="home__description">
-        Full Stack Developer at Hoztox Technologies, leveraging my skills in
+        Frontend Developer at Hoztox Technologies, leveraging my skills in
         building scalable, efficient, and user friendly applications. Committed
         to continuous learning and contributing to innovative software solutions
         that enhance user experiences and drive organizational success.

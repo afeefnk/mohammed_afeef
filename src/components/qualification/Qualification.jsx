@@ -60,7 +60,7 @@ const Qualification = () => {
               </div>
               <div>
                 <h3 className="qualification__title">
-                  Full Stack Developer
+                  Frontend Developer
                 </h3>
                 <span className="qualification__subtitle">
                   Hoztox Technologies Valanchery

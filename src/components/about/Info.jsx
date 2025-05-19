@@ -6,14 +6,14 @@ const Info = () => {
     <div className="about__box">
     <i class='bx bx-award about__icon'></i>
 
-        <h3 className="about__title" style={{fontWeight: 'bold'}}>08 +</h3>
-        <span className="about__subtitle" style={{fontSize: '13px'}}>Months Experience</span>
+        <h3 className="about__title" style={{fontWeight: 'bold'}}>01 +</h3>
+        <span className="about__subtitle" style={{fontSize: '13px'}}>Years Experience</span>
     </div>
 
     <div className="about__box">
     <i class='bx bx-briefcase-alt about__icon'></i>
 
-        <h3 className="about__title" style={{fontWeight: 'bold'}}>03 + </h3>
+        <h3 className="about__title" style={{fontWeight: 'bold'}}>04 + </h3>
         <span className="about__subtitle" style={{fontSize: '13px'}}>Completed Projects</span>
     </div>
 
